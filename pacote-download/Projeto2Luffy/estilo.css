@@ -1,0 +1,67 @@
+body{
+    background: #B2B42F url('imagens/fundo2.png') fixed;
+    font: 18px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 900px;
+    margin: 0 auto;
+}
+
+#menu{
+    background: #282825;
+    padding: 10px;
+}
+
+#conteudo{
+    background: #CAA40F;
+    padding: 9px;
+}
+
+#rodape{
+    text-align: center;
+}
+
+.largura{
+    width: 900px;
+    height: 388px;
+}
+
+.cabecalho{
+    font-size: 1.3em;
+    color: #DF1005;
+}
+
+.imgpersonagens{
+    border: 10px solid #4F4D4D;
+    width: 356px;
+    height: 350px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+    font-weight: bold;
+}
+
+ul{
+    list-style: disc;
+}
+
+table{
+    border: 1px solid;
+}
+
+th{
+    border: 1px solid;
+    text-align: left;
+}
+td{
+    border: 1px solid;
+}
+
+
+
+
+
